@@ -1,0 +1,17 @@
+C:\Users\Notebook\source\repos\CRUD-Clientes\CRUD-Clientes\bin\Debug\net7.0-windows\CRUD-Clientes.exe
+C:\Users\Notebook\source\repos\CRUD-Clientes\CRUD-Clientes\bin\Debug\net7.0-windows\CRUD-Clientes.deps.json
+C:\Users\Notebook\source\repos\CRUD-Clientes\CRUD-Clientes\bin\Debug\net7.0-windows\CRUD-Clientes.runtimeconfig.json
+C:\Users\Notebook\source\repos\CRUD-Clientes\CRUD-Clientes\bin\Debug\net7.0-windows\CRUD-Clientes.dll
+C:\Users\Notebook\source\repos\CRUD-Clientes\CRUD-Clientes\bin\Debug\net7.0-windows\CRUD-Clientes.pdb
+C:\Users\Notebook\source\repos\CRUD-Clientes\CRUD-Clientes\obj\Debug\net7.0-windows\CRUD-Clientes.csproj.AssemblyReference.cache
+C:\Users\Notebook\source\repos\CRUD-Clientes\CRUD-Clientes\obj\Debug\net7.0-windows\CRUD_Clientes.Form1.resources
+C:\Users\Notebook\source\repos\CRUD-Clientes\CRUD-Clientes\obj\Debug\net7.0-windows\CRUD-Clientes.csproj.GenerateResource.cache
+C:\Users\Notebook\source\repos\CRUD-Clientes\CRUD-Clientes\obj\Debug\net7.0-windows\CRUD-Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook\source\repos\CRUD-Clientes\CRUD-Clientes\obj\Debug\net7.0-windows\CRUD-Clientes.AssemblyInfoInputs.cache
+C:\Users\Notebook\source\repos\CRUD-Clientes\CRUD-Clientes\obj\Debug\net7.0-windows\CRUD-Clientes.AssemblyInfo.cs
+C:\Users\Notebook\source\repos\CRUD-Clientes\CRUD-Clientes\obj\Debug\net7.0-windows\CRUD-Clientes.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\CRUD-Clientes\CRUD-Clientes\obj\Debug\net7.0-windows\CRUD-Clientes.dll
+C:\Users\Notebook\source\repos\CRUD-Clientes\CRUD-Clientes\obj\Debug\net7.0-windows\refint\CRUD-Clientes.dll
+C:\Users\Notebook\source\repos\CRUD-Clientes\CRUD-Clientes\obj\Debug\net7.0-windows\CRUD-Clientes.pdb
+C:\Users\Notebook\source\repos\CRUD-Clientes\CRUD-Clientes\obj\Debug\net7.0-windows\CRUD-Clientes.genruntimeconfig.cache
+C:\Users\Notebook\source\repos\CRUD-Clientes\CRUD-Clientes\obj\Debug\net7.0-windows\ref\CRUD-Clientes.dll
