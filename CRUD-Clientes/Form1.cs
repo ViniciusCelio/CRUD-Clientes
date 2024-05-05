@@ -18,8 +18,8 @@ namespace CRUD_Clientes
         {
             var cliente = new Cliente()
             {
-                Nome = textBox1.Text,
-                Email = textBox2.Text
+                Nome = textBox1.Text.Trim(),
+                Email = textBox2.Text.Trim()
             };
 
             if (clienteDAO.GetClientes().Any(x => x.Nome.Equals(cliente.Nome)
@@ -28,6 +28,9 @@ namespace CRUD_Clientes
                 MessageBox.Show("Já existe esse cliente na base", "Atenção");
                 textBox1.Text = "";
                 textBox2.Text = "";
+            } else if (cliente.Nome.Equals("") || cliente.Email.Equals(""))
+            {
+                MessageBox.Show("Preencha todos os campos", "Atenção");
             }
             else
             {
